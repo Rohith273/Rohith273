@@ -25,8 +25,8 @@ Hi! I'm Rohith S P, a passionate developer and technology enthusiast. I enjoy bu
 
 ## 📈 GitHub Stats  
 
-![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit273&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit273&layout=compact&theme=radical)  
 
 ---
 
