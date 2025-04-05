@@ -10,8 +10,6 @@ Hi! I'm Rohith S P, a passionate developer and technology enthusiast. I enjoy bu
 ## 🌟 What I'm Working On  
 
 - 🚀 **Upskilling in Technology**: Exploring modern tech stacks and development practices.  
-- 🎓 **Hackathons**: Participating in events like **VOYAGEHACK 2.0 by TBO.com**.  
-- 🤖 **AI Projects**: Developing innovative AI-based solutions.  
 
 ---
 
