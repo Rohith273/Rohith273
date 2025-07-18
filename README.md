@@ -1,9 +1,9 @@
 
 # 💻 Rohith S P  
 
-**`Aspiring Developer | Tech Enthusiast | Hackathon Explorer`**  
+**`Aspiring Developer | Tech Enthusiast `**  
 
-Hi! I'm Rohith S P, a passionate developer and technology enthusiast. I enjoy building creative solutions, exploring new tools, and collaborating on meaningful projects. I'm actively working on improving my skills and participating in hackathons to solve real-world problems.  
+Hi! I'm Rohith S P, a passionate developer and technology enthusiast. I enjoy building creative solutions, exploring new tools, and collaborating on meaningful projects. I'm actively working on improving my skills to solve real-world problems.  
 
 ---
 
